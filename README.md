@@ -8,7 +8,7 @@ A simple and fast URL shortener built using **React**, **Vite**, and **localStor
 ## 📸 Screenshots
 
 ### 🔧 Home - URL Shortener
-![Shortener](./screenshots/home.png)
+![Shortener](./Screenshot 2025-06-23 141858.png)
 
 ### 📊 Statistics Page
 ![Stats](./screenshots/stats.png)
