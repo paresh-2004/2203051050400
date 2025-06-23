@@ -11,7 +11,7 @@ A simple and fast URL shortener built using **React**, **Vite**, and **localStor
 ![Shortener](./Screenshot 2025-06-23 141858.png)
 
 ### 📊 Statistics Page
-![Stats](./screenshots/stats.png)
+![Stats]([./screenshots/stats.png](https://github.com/paresh-2004/2203051050400/blob/447b0b275d0a9221e628212795cc8d1d1a37738b/Screenshot%202025-06-23%20142012.png))
 
 ---
 
